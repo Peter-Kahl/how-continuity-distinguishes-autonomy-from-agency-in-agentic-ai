@@ -60,11 +60,12 @@ This paper belongs to a broader programme of independent research on the philoso
 
 - ORCID (full list of works): [https://orcid.org/0009-0003-1616-4843](https://orcid.org/0009-0003-1616-4843)
 - GitHub (research code and paper repositories): [https://github.com/Peter-Kahl](https://github.com/Peter-Kahl)
-- Lex et Ratio (working papers and research software): [https://lexetratio.com](https://lexetratio.com)
+- Lex et Ratio (working papers and research software): [https://www.lexetratio.com](https://www.lexetratio.com)
+- ResearchGate (list of selected works): [https://www.researchgate.net/profile/Peter-Kahl/research](https://www.researchgate.net/profile/Peter-Kahl/research)
 
 ## Author
 
-Peter Kahl — Independent researcher, Lex et Ratio
+Peter Kahl — Independent researcher, Lex et Ratio\
 Contact: peter.kahl@lexetratio.com
 
 ## Licence
