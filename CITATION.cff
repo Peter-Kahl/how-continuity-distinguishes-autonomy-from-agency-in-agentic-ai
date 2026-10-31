@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite the published article below."
+title: "How continuity distinguishes autonomy from agency in agentic AI"
+authors:
+  - family-names: Kahl
+    given-names: Peter
+    orcid: "https://orcid.org/0009-0003-1616-4843"
+    affiliation: "Independent researcher, Lex et Ratio"
+    email: peter.kahl@lexetratio.com
+license: CC-BY-NC-ND-4.0
+url: "https://doi.org/10.1007/s44163-026-01675-5"
+repository-code: "https://github.com/Peter-Kahl/how-continuity-distinguishes-autonomy-from-agency-in-agentic-ai"
+keywords:
+  - agentic AI
+  - AI agents
+  - artificial agency
+  - operational autonomy
+  - artificial intelligence governance
+  - responsibility gap
+  - evaluative authority
+  - accountability
+  - continuity pressure
+  - authorship
+  - philosophy of AI
+  - philosophy of mind
+preferred-citation:
+  type: article
+  title: "How continuity distinguishes autonomy from agency in agentic AI"
+  authors:
+    - family-names: Kahl
+      given-names: Peter
+      orcid: "https://orcid.org/0009-0003-1616-4843"
+  journal: "Discover Artificial Intelligence"
+  publisher:
+    name: "Springer Nature"
+  volume: 6
+  issue: 1
+  start: 1187  # article number
+  year: 2026
+  month: 7
+  doi: "10.1007/s44163-026-01675-5"
+  url: "https://doi.org/10.1007/s44163-026-01675-5"
+  license: CC-BY-NC-ND-4.0
