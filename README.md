@@ -2,7 +2,6 @@
 
 **Peter Kahl**
 
-[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1007%2Fs44163--026--01675--5)](https://juleskreuer.eu/projects/citation-badge)
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs44163--026--01675--5-blue.svg)](https://doi.org/10.1007/s44163-026-01675-5)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 [![Licence: CC BY-NC-ND 4.0](https://img.shields.io/badge/Licence-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
